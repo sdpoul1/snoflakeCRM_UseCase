@@ -39,10 +39,11 @@ You have to click on consent link and have to provide consent that i a'm allowin
 
 
 # Customer data transformation
-![image](https://github.com/user-attachments/assets/3d08257b-8ca6-41db-b77e-ec5ed821383f)
+![image](https://github.com/user-attachments/assets/b2a3ccd9-b3fd-4faa-a460-b7365d7a57f9)
+
 
 # Product data transformation
-![image](https://github.com/user-attachments/assets/3ab0ba05-0651-4486-a53e-fe4dfd8586a0)
+![image](https://github.com/user-attachments/assets/00adf4d1-e6e4-4859-8e5f-37a176338072)
 
 
 
